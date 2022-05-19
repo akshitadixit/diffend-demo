@@ -1,0 +1,12 @@
+---
+commands:
+  secure: "diffend"
+hooks:
+  before-install-all:
+  - "diffend"
+load_paths:
+  diffend:
+  - "F:/plastic/diffend-demo/.bundle/plugin/gems/diffend-0.2.51/lib"
+plugin_paths:
+  diffend: "F:/plastic/diffend-demo/.bundle/plugin/gems/diffend-0.2.51"
+sources:
